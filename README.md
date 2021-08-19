@@ -4,26 +4,28 @@
   <a href="https://github.com/Matheyck">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheyck&show_icons=true&theme=dark&include_all_commits=true&count_ptivate=true"/>
     <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheyck&theme=dark"/>
+    <img height="20em" src="https://img.shields.io/github/followers/matheyck.svg?style=social&label=Follow&maxAge=2592000"/>
 </div
     
 ##
 <br>
 <div style="display: inline-block">
-    <a href="https://steamcommunity.com/id/frangotv"><img height="50em" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-    <img height="50em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="https://steamcommunity.com/id/frangotv"><img height="30em" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+    <img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
     
 ##
-  
+<br>
 <div style="display: inline-block">
-    <img height="50em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img height="50em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height="50em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img height="50em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img height="30em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
     
 ##
-    
-<img height="50em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<br>
+<img height="30em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
     
     
