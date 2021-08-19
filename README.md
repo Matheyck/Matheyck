@@ -1,13 +1,29 @@
 ## Olá! Meu nome é Matheus e seja bem-vindo ao meu perfil!
 
-- 🌱 Estudando Front-End
-
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/Matheyck">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheyck&show_icons=true&theme=dark&include_all_commits=true&count_ptivate=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheyck&layout=compact&langs_count=16&theme=dark"/>
+    <img height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheyck&theme=dark"/>
+</div
     
-    <div style="display: inline-block><br>
-                <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </div>
+##
+<br>
+<div style="display: inline-block">
+    <a href="https://steamcommunity.com/id/frangotv"><img height="50em" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+    <img height="50em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</div>
+    
+##
+  
+<div style="display: inline-block">
+    <img height="50em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img height="50em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img height="50em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img height="50em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
+    
+##
+    
+<img height="50em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    
     
