@@ -10,7 +10,7 @@
 <br>
 <div style="display: inline-block">
     <a href="https://steamcommunity.com/id/frangotv"><img height="30em" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-    <img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <a href="#"><img height="30em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
     
 ##
