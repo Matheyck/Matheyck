@@ -1,5 +1,11 @@
 # 👋 Olá! Meu nome é Matheus, seja bem-vindo ao meu perfil!
 
+Atualmente sou estagiário de Desenvolvedor de RPA na Arruda Alvim, Aragão, Lins & Sato Advogados, onde aprimoro minhas habilidades em automação de processos robóticos (RPA). Minha experiência inclui o uso de Python para desenvolver soluções que otimizam tarefas repetitivas e melhoram a eficiência, especialmente no setor jurídico.
+
+Anteriormente, trabalhei como estagiário na DPE-PR, focado na automação de verificações de certificados de Segurança da Informação com RPA, o que me permitiu aplicar na prática meus conhecimentos de codificação e automação.
+
+Sou movido por desafios e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Confira meus projetos para ver como tenho explorado o potencial da automação e da programação.
+
 <div align="center">
   <a href="https://github.com/Matheyck">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheyck&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
