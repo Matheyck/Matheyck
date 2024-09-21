@@ -15,18 +15,6 @@ Sou movido por desafios e estou sempre buscando aprender novas tecnologias e apr
 
 ---
 
-## 🌐 Minhas redes sociais:
-<div align="left">
-  <a href="https://steamcommunity.com/id/frangotv">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
-
----
-
 ## 💻 Linguagens e ferramentas que eu uso:
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
