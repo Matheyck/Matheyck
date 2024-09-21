@@ -6,9 +6,9 @@ Anteriormente, trabalhei como estagiário na DPE-PR, focado na automação de ve
 
 Sou movido por desafios e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Confira meus projetos para ver como tenho explorado o potencial da automação e da programação.
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Matheyck">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheyck&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheyck&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="margin-right: 10px;"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheyck&layout=compact&langs_count=7&theme=blue-green"/>
   </a>
 </div>
