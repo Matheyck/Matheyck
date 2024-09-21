@@ -1,6 +1,6 @@
 # 👋 Olá! Meu nome é Matheus, seja bem-vindo ao meu perfil!
 
-Atualmente sou estagiário de Desenvolvedor de RPA na Arruda Alvim, Aragão, Lins & Sato Advogados, onde aprimoro minhas habilidades em automação de processos robóticos (RPA). Minha experiência inclui o uso de Python para desenvolver soluções que otimizam tarefas repetitivas e melhoram a eficiência, especialmente no setor jurídico.
+Atualmente, sou estagiário de Desenvolvedor de RPA na Arruda Alvim, Aragão, Lins & Sato Advogados, onde aprimoro minhas habilidades em automação de processos robóticos (RPA) e estou aprendendo Django. Minha experiência inclui o uso de Python para desenvolver soluções que otimizam tarefas repetitivas e melhoram a eficiência, especialmente no setor jurídico.
 
 Anteriormente, trabalhei como estagiário na DPE-PR, focado na automação de verificações de certificados de Segurança da Informação com RPA, o que me permitiu aplicar na prática meus conhecimentos de codificação e automação.
 
