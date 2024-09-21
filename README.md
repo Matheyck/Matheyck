@@ -13,7 +13,6 @@ Sou movido por desafios e estou sempre buscando aprender novas tecnologias e apr
   </a>
 </div>
 
----
 
 ## 💻 Linguagens e ferramentas que eu uso:
 <div style="display: inline_block">
@@ -23,7 +22,6 @@ Sou movido por desafios e estou sempre buscando aprender novas tecnologias e apr
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
----
 
 ## 🖥️ Sistema Operacional:
 <div>
