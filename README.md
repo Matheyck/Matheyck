@@ -1,34 +1,27 @@
 <h2 align="left">Olá 👋 Eu sou o Matheus</h2>
 
-<p align="left">
-Desenvolvedor focado em <strong>Automação de Processos (RPA)</strong>, com experiência prática no ambiente jurídico e em projetos voltados à <strong>Segurança da Informação</strong>.
-</p>
+💻 Desenvolvedor focado em **Automação de Processos (RPA)** e **integração de sistemas**.  
+Experiência com **Python, n8n, SQL e APIs REST**, atuando em automações end-to-end no ambiente jurídico, com foco em eficiência, rastreabilidade e redução de tarefas manuais.
 
-<p align="left">
-Atualmente, atuo como <strong>Estagiário de Desenvolvedor RPA</strong> no escritório 
-<strong>Arruda Alvim, Aragão, Lins & Sato Advogados</strong>, onde desenvolvo automações para reduzir trabalho manual, aumentar confiabilidade de processos e otimizar fluxos internos.
-</p>
+### 🔧 Stack principal
+- **Python** (RPA, Django, automações)
+- **n8n** (workflows, orquestração e integrações)
+- **SQL** (SQLite, SQL Server)
+- **APIs REST** (WhatsApp, e-mail, serviços externos)
+- **Web Scraping** (Selenium, BeautifulSoup)
 
-<p align="left">
-Durante minha passagem pela <strong>DPE-PR</strong>, trabalhei com automações em Python voltadas à validação e verificação de certificados digitais, lidando diretamente com rotinas críticas e repetitivas. Essa experiência fortaleceu minha base técnica e minha visão prática sobre RPA aplicado a ambientes sensíveis.
-</p>
+### 🚀 O que eu faço na prática
+- Automatizo processos repetitivos e críticos de ponta a ponta  
+- Integro sistemas via APIs, banco de dados e workflows  
+- Desenvolvo robôs com persistência, rastreabilidade e auditoria  
+- Crio sistemas web simples para controle e monitoramento de automações
 
-<p align="left">
-Tenho interesse constante em evoluir como desenvolvedor, explorando novas tecnologias, boas práticas e desafios reais que envolvem automação, integração de sistemas e eficiência operacional.
-</p>
+📌 Atuação profissional em automação e RPA no ambiente jurídico, com desenvolvimento de soluções em produção utilizando Python, n8n, SQL e sistemas web.
 
----
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=matheyck&show_icons=true&count_private=true&theme=dark&locale=pt-br&custom_title=Estatísticas"
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=matheyck&layout=compact&langs_count=5&theme=dark&locale=pt-br&custom_title=Linguagens"
-    height="150"
-  />
-</div>
+### 📈 Interesses atuais
+- Automação corporativa e RPA escalável  
+- Integração entre sistemas e APIs  
+- Observabilidade e controle de robôs em produção  
 
 ---
 
@@ -42,6 +35,10 @@ Tenho interesse constante em evoluir como desenvolvedor, explorando novas tecnol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" height="28" />
 </div>
 
 ---
